@@ -1,0 +1,2 @@
+mkdir d2
+stop
